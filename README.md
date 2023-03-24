@@ -42,9 +42,8 @@ Para compilar colocamos na mesma pasta o ficheiro e o romtodec.c e no terminal e
 🔧 Tecnologias utilizadas:
 ------------------
 
-- <strong>C++</strong>
-- <strong>QtCreator</strong>
-- <strong>CMake</strong>
+- <strong>C</strong>
+- <strong>Sublime Text</strong>
 - <strong>MacOS</strong>
 
 💬 Fale comigo
