@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="600" src="cdev.png" />
+    <img width="600" src="cdev.jpeg" />
 </h1>
 
 
